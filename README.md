@@ -44,6 +44,9 @@ This extension includes the following E2 functions:
 2. Ensure **Wiremod** is installed and properly configured.
 3. Restart your server or reload wiremod to load the new extension.
 
+This is a 1 hour project, released for historical reason, however if you want to see more features or have any complaint, feel free to ask me.
+
+
 ---
 
  
